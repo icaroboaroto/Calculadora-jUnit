@@ -1,4 +1,4 @@
-# CalculadoraJunit
+# CalculadoraJUnit
 
 # Descrição
  Projeto de testes feitos em uma calculadora usando JUnit em linguagem Java. Feita para a matéria de Qualidade e Testes de Software 
