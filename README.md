@@ -10,5 +10,6 @@ Calculadora que contém as 4 operações básicas:
  - Subtração
  - Multiplicação
  - Divisão
+
 Foi realizado diversos testes nas diferentes operações.
 
