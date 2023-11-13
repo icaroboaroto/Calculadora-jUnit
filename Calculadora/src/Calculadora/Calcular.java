@@ -5,7 +5,8 @@ package Calculadora;
 	 * @version 4.29.0 
 	 * @since Release 4.29.0 da aplicação.
 	 * 
-	 * Uma classe que realiza todas as 4 principais operações matemáticas 
+	
+  	* Uma classe que realiza todas as 4 principais operações matemáticas 
 	 * (adição, subtração, multiplicação e divisão).
 	 */
 
